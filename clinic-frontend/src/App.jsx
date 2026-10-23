@@ -2,7 +2,7 @@
 import { useEffect, useState } from "react";
 import "./App.css";
 
-const API = "http://localhost:1947/clinic";
+const API = "http://localhost:2028/clinic";
 
 const emptyForm = {
   name: "",
